@@ -1,4 +1,4 @@
-### Hello, welcome to my profile 👋
+# Hello, welcome to my profile 👋
 
 ## I'm a computer engineering student at Technological Institute of Costa Rica
 
