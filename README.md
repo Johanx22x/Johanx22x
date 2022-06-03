@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanx22x&label=Profile%20views&color=0e75b6&style=flat" alt="johanx22x" /> </p>
 
-- 🔭 I’m currently working on **My Website**
+- 🔭 I’m currently working on a **Machine Learning and AI project with Arduino and Android**
 
 - 🌱 I’m currently learning **Golang, JavaScript, 日本語, and some things more...**
 
