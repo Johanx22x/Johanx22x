@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **My Website**
 
-- 🌱 I’m currently learning **Golang, JavaScript, and some things more...**
+- 🌱 I’m currently learning **Golang, JavaScript, 日本語, and some things more...**
+
+- ⚡️ My next goal is learn **Rust**
 
 - 💬 Ask me about **Python**
 
