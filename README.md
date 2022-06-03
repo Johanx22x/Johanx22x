@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Python**
 
+- 🌟 Constantly I spend time in **Linux, Notion, Project Euler, Unity...**
+
 - 📫 How to reach me **johanrodsa2210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
