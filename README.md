@@ -9,7 +9,7 @@
 
 - ⚡️ My next goal is learn **Rust**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C/C++**
 
 - 🌟 Constantly I spend time in **Linux, Notion, Project Euler...**
 
