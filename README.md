@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on a **Machine Learning and AI project with Arduino and Android**
 
-- 🌱 I’m currently learning **Golang, JavaScript, 日本語, and some things more...**
+- 🌱 I’m currently learning **Haskell, JavaScript, 日本語, and some things more...**
 
 - ⚡️ My next goal is learn **Rust**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, C++**
 
-- 🌟 Constantly I spend time in **Linux, Notion, Project Euler, Unity...**
+- 🌟 Constantly I spend time in **Linux, Notion, Project Euler...**
 
 - 📫 How to reach me **johanrodsa2210@gmail.com**
 
