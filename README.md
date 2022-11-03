@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Rodriguez.</h1>
-<h3 align="center">A computer Engineering student at Technological Institute of Costa Rica.</h3>
+<h3 align="center">A computer Science student at Costa Rica Institute of Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanx22x&label=Profile%20views&color=0e75b6&style=flat" alt="johanx22x" /> </p>
 
