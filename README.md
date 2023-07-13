@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanx22x&label=Profile%20views&color=0e75b6&style=flat" alt="johanx22x" /> </p>
 
-- 🌱 I’m currently learning **SQL, Rust and AI**
+- 🌱 I’m currently learning **Rust and AI**
 
 - 💬 Ask me about **Python, Go, C++ and Math.**
 
