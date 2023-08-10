@@ -52,7 +52,7 @@
 <div align="center">
   <a href="https://github.com/Johanx22x#gh-dark-mode-only">
     <img
-       src="https://streak-stats.demolab.com/?user=Johanx22x&background=2E3440&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=81A1C1&ring=81A1C1&locale=en&type=svg&hide_border=true"
+       src="https://streak-stats.demolab.com/?user=Johanx22x&background=2E3440&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=81A1C1&ring=81A1C1&locale=en&type=svg"
        alt="My GitHub streak stats"
        height="150"
      />
