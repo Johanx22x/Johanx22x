@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johan Rodriguez</h1>
 
-<p align="center"> <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Gopher" height=50/> </p>
+<p align="center"> <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Gopher" height=100/> </p>
 
 <h3 align="center">A passionate Computer Science student from Costa Rica</h3>
 
