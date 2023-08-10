@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Rodriguez</h1>
 
+<p align="center"> <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Gopher" height="200"/> </p>
+
 <h3 align="center">A passionate Computer Science student from Costa Rica</h3>
 
 [![Github](https://img.shields.io/github/followers/Johanx22x?label=Follow&style=social)](https://github.com/Johanx22x)
