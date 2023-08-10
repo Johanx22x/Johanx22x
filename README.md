@@ -4,11 +4,13 @@
 
 [![Github](https://img.shields.io/github/followers/Johanx22x?label=Follow&style=social)](https://github.com/Johanx22x)
 
-- 👀 I’m currently learning **DevOps & ML**
+- 👀 I’m currently learning **DevOps & ML**.
 
 - 🌟 All of my projects are available at **[my website](https://johanx22x.github.io)**.
 
-- 🤓 Ask me about **Python, Go, C++ and Math.**
+- 🤓 Ask me about **Coding and Math**.
+
+- 🦥 I prefer to avoid **procrastination**.
 
 - 📫 How to reach me **johanrodsa2210@gmail.com**
 
