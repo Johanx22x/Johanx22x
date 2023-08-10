@@ -34,14 +34,14 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=Johanx22x&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github"
       alt="My Github stats"
-      height="170"
+      height="100"
     />
   </a>
   <a href="https://github.com/Johanx22x">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanx22x&hide_progress=true&theme=nord"
       alt="My Language stats"
-      height="170"
+      height="100"
     />
   </a>
 </div>
@@ -52,7 +52,7 @@
     <img
        src="https://streak-stats.demolab.com/?user=Johanx22x&background=2E3440&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=81A1C1&ring=81A1C1&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
-       height="200"
+       height="150"
      />
   </a>
 </div>
