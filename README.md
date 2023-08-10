@@ -33,7 +33,7 @@
 <!-- Right Column -->
 <div style="float: left; width: 40%;">
 
-<p align="center"> <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Gopher" height="340"/> </p>
+<p align="center"> <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Gopher"/> </p>
 
 </div>
 
