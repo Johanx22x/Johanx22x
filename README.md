@@ -34,14 +34,14 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=Johanx22x&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github"
       alt="My Github stats"
-      height="100"
+      height="150"
     />
   </a>
   <a href="https://github.com/Johanx22x">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanx22x&hide_progress=true&theme=nord"
       alt="My Language stats"
-      height="100"
+      height="150"
     />
   </a>
 </div>
