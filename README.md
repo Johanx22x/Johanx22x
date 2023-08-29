@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/johan-rodriguez-salas-5a49a223a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan-rodriguez-salas-5a49a223a" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="android" width="40" height="40"/> 
   </a>
 </p>
 
