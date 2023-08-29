@@ -132,7 +132,7 @@
 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
 </a>
 
 <!-- Kotlin -->
@@ -157,7 +157,7 @@
 
 <!-- Markdown -->
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mardown-Dark.svg" alt="markdown" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/>
 </a>
 
 <!-- Maven -->
@@ -172,7 +172,7 @@
 
 <!-- NeoVim -->
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoViM-Dark.svg" alt="neovim" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" alt="neovim" width="40" height="40"/>
 </a>
 
 <!-- Nim -->
@@ -230,7 +230,7 @@
 
 <!-- Seaborn -->
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-darkbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
 <!-- SQLite -->
