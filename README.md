@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Johan Rodriguez</h1>
+<h1 align="center">Welcome!</h1>
 
 <p align="center"> 
-  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Gopher" height="200"/> 
+  <img src="https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif" alt="Gopher" height="200"/> 
 </p>
 
-<h3 align="center">A passionate Computer Science student from Costa Rica</h3>
+<h3 align="center">Name's Johan, a passionate Computer Science student from Costa Rica</h3>
 
 [![Github](https://img.shields.io/github/followers/Johanx22x?label=Follow&style=social)](https://github.com/Johanx22x)
 
-- 👀 I’m currently learning **DevOps & ML**.
+- 👀 I’m currently learning **Machine Learning**.
 
 - 🌟 All of my projects are available at **[my website](https://johanx22x.github.io)**.
 
 - 🤓 Ask me about **Coding and Math**.
-
-- 🦥 I prefer to avoid **procrastination**.
 
 - 📫 How to reach me **johanrodsa2210@gmail.com**
 
