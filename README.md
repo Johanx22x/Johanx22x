@@ -1,11 +1,10 @@
 <br>
 
 I'm a Computer Science student at the Costa Rica Institute of Technology. 
-Active researcher in the field of artificial intelligence and computer vision. 
+Interested in the field of machine learning and game development. 
 Power user of Linux-based operating systems.
-Interested in machine learning, mathematics, natural languages, Unix, Vim, design.
 
-You can find more about me in my [personal website](https://johanx22x.github.io/).
+You can find more about me in my [portfolio](https://johanx22x.github.io/).
 
 <!-- Github stats and most used languages -->
 <div align="center"> 
